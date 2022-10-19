@@ -1,6 +1,6 @@
-## Contributing to {{{ Package }}}
+## Contributing to epiverse-trace packages
 
-This outlines how to propose a change to {{{ Package }}}. We abide by the contibuting guidelines developed by the tidyverse. For more detailed info about contributing to this, and other epiverse-TRACE packages, please see the [tidyverse development contributing guide](https://www.tidyverse.org/contribute/). 
+This outlines how to propose a change to epiverse-trace packages. We abide by the contibuting guidelines developed by the tidyverse. For more detailed info about contributing to this, and other epiverse-trace packages, please see the [tidyverse development contributing guide](https://www.tidyverse.org/contribute/). 
 
 ### Fixing typos 
 
@@ -26,4 +26,4 @@ If you want to make a bigger change, it's a good idea to first file an issue and
 
 ### Code of Conduct
 
-Please note that the {{{ Package }}} project is released with a [Contributor Code of Conduct](https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT.md). By contributing to this project you agree to abide by its terms.
+Please note that these packages are released with a [Contributor Code of Conduct](https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT.md). By contributing to this project you agree to abide by its terms.
