@@ -27,7 +27,7 @@ If you want to make a bigger change, it's a good idea to first file an issue and
 
 ### Use cases
 
-We are always interested in hearing about how epiverse-trace packages are being applied. If you have a use case which you would like to share with the wider community, please do let us know. You can post about it in the discussions board of the relevant repository or reach out through [email](anna.carnegie@lshtm.ac.uk). We;re grateful for any way that you can spread the word. Whether that's citing epiverse-trace packages in your papers or telling your friends about a feature you found useful.
+We are always interested in hearing about how epiverse-trace packages are being applied. This helps inform future development priorities by identifying which features are the most used, and which parts of the project lack clarity or need improvement. If you have a use case which you would like to share with the wider community, please do let us know. You can post about it in the discussions board of the relevant repository or reach out through [email](anna.carnegie@lshtm.ac.uk). We're grateful for any way that you can spread the word. Whether that's citing epiverse-trace packages in your papers or telling your friends about a feature you found useful.
 
 ### Code of Conduct
 
