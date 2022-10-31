@@ -1,6 +1,7 @@
 ## Contributing to epiverse-trace packages
+There are lots of ways you can contribute to packages within the epiverse-trace organisation. All contributions are most welcome and only some of these require techical knowledge. If you have something to contribute but aren't sure how, please don't hesitate to log an issue or get in touch with Community Manager Anna by [email](anna.carnegie@lshtm.ac.uk). 
 
-This outlines how to propose a change to epiverse-trace packages. We abide by the contibuting guidelines developed by the tidyverse. For more detailed info about contributing to this, and other epiverse-trace packages, please see the [tidyverse development contributing guide](https://www.tidyverse.org/contribute/). 
+The below guidelines outline how to propose a change to epiverse-trace packages. We abide by the contibuting guidelines developed by the tidyverse. For more detailed info about contributing to this, and other epiverse-trace packages, please see the [tidyverse development contributing guide](https://www.tidyverse.org/contribute/). 
 
 ### Fixing typos 
 
@@ -23,6 +24,10 @@ If you want to make a bigger change, it's a good idea to first file an issue and
 - New code should follow the tidyverse [style guide](https://style.tidyverse.org/news.html). You can use the [styler](https://cran.r-project.org/web/packages/styler/index.html) package to apply these styles, but please don't restyle code that has nothing to do with your PR.
 - We use [roxygen2](https://cran.r-project.org/web/packages/roxygen2/index.html) for basic documentation, [rmarkdown](https://rmarkdown.rstudio.com/docs/) for vignettes and [pkgdown](https://pkgdown.r-lib.org/) for websites.
 - We use [testthat](https://cran.r-project.org/web/packages/testthat/index.html) for unit tests. Contributions with test cases included are easier to accept.
+
+### Use cases
+
+We are always interested in hearing about how epiverse-trace packages are being applied. This helps inform future development priorities by identifying which features are the most used, and which parts of the project lack clarity or need improvement. If you have a use case which you would like to share with the wider community, please do let us know. You can post about it in the discussions board of the relevant repository or reach out through [email](anna.carnegie@lshtm.ac.uk). We're grateful for any way that you can spread the word. Whether that's citing epiverse-trace packages in your papers or telling your friends about a feature you found useful.
 
 ### Code of Conduct
 
