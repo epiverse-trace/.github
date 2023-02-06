@@ -8,7 +8,7 @@ following links:
 - [The epiverse-trace developer dashboard](https://epiverse-trace.github.io/epiversedashboard/)
 - [Our website](https://data.org/initiatives/epiverse/)
 
-You can also pitch and discuss new project ideas with us! You can following these links to find:
+You can also pitch and discuss new project ideas with us! You can follow these links to find:
 
-* [The list of projects being discussed](https://github.com/epiverse-trace/pitcher/discussions/categories/ideas), and
+* [The list of projects being discussed](https://github.com/epiverse-trace/pitcher/discussions/categories/ideas)
 * [How to propose a new project](https://github.com/epiverse-trace/pitcher/discussions/new?category=ideas)
