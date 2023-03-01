@@ -5,6 +5,7 @@ You may learn more about our tools and our work in progress by checking out the
 following links:
 
 - [The epiverse-trace R-universe](https://epiverse-trace.r-universe.dev/)
+- [The epiverse-trace developer corner](https://epiverse-trace.github.io/)
 - [The epiverse-trace developer dashboard](https://epiverse-trace.github.io/epiversedashboard/)
 - [Our website](https://data.org/initiatives/epiverse/)
 
