@@ -6,7 +6,6 @@ following links:
 
 - [The epiverse-trace R-universe](https://epiverse-trace.r-universe.dev/)
 - [The epiverse-trace developer space](https://epiverse-trace.github.io/)
-- [The epiverse-trace developer dashboard](https://epiverse-trace.github.io/epiversedashboard/)
 - [Our website](https://data.org/initiatives/epiverse/)
 
 You can also pitch and discuss new project ideas with us! You can follow these links to find:
