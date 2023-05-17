@@ -10,5 +10,5 @@ following links:
 
 You can also pitch and discuss new project ideas with us! You can follow these links to find:
 
-* [The list of projects being discussed](https://github.com/epiverse-trace/pitcher/discussions/categories/ideas)
-* [How to propose a new project](https://github.com/epiverse-trace/pitcher/discussions/new?category=ideas)
+* [The list of projects being discussed](https://github.com/orgs/epiverse-trace/discussions/categories/project-ideas)
+* [How to propose a new project](https://github.com/orgs/epiverse-trace/discussions/new?category=project-ideas)
