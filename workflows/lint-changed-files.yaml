@@ -32,11 +32,6 @@ jobs:
             epiverse-trace/etdev
           needs: check
 
-      - name: Add lintr options
-        run: |
-          cat('\noptions(lintr.linter_file = ".lintr")\n', file = "~/.Rprofile", append = TRUE)
-        shell: Rscript {0}
-
       - name: Install package
         run: R CMD INSTALL .
 
