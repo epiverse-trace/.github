@@ -18,4 +18,4 @@ jobs:
 
       - run: npm install markdownlint-cli
 
-      - run: npx markdownlint-cli '**/*.md' --dot --disable line_length first-line-h1 --ignore node_modules
+      - run: npx markdownlint-cli '**/*.md' --dot --disable line_length first-line-h1 no-inline-html --ignore node_modules
