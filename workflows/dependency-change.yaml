@@ -56,7 +56,9 @@ jobs:
               "- Adds {nrow(deps_added)} new dependencies (direct and indirect)",
               "- Adds {length(unique(deps_added$sysreqs))} new system dependencies",
               "- Removes {nrow(deps_removed)} existing dependencies (direct and indirect)",
-              "- Removes {length(unique(deps_removed$sysreqs))} existing system dependencies"
+              "- Removes {length(unique(deps_removed$sysreqs))} existing system dependencies",
+              "",
+              "(cc @Bisaloo for workflow monitoring)"
             )
 
             message("Posting results as a pull request comment.")
