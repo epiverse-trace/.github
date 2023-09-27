@@ -1,2 +1,5 @@
 repositories:
   - epiverse-trace
+
+contribution-graph:
+  minify: false
