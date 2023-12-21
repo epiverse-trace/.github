@@ -25,7 +25,7 @@ From the start, Epiverse-TRACE has been designed as an international, multi-stak
 We work in the open, as a way to ensure accountability, and to offer engagement opportunities for the wider community:
 
 1. All our GitHub repositories are public, even for early proof of concepts or work in progress.
-2. We openly collaborate on new project or repository ideas; these are pitched on our GitHub board. Project follow ups are conducted on Slack, and are complemented by issues filled on GitHub.
+2. We openly collaborate on new project or repository ideas; these are pitched on our [GitHub discussion board](https://github.com/orgs/epiverse-trace/discussions). Project follow ups are conducted on Slack, and are complemented by issues filled on GitHub.
 3. After each event, whether internal or external, slides are shared on [our developer website](https://epiverse-trace.github.io/presentations.html), alongside questions from the audience and their answers.
 4. Prior to each internal meeting, we share agendas and always ask for new topic or item suggestions. After each meeting, notes and meeting summaries are shared with the group.
 
