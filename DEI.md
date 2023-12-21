@@ -12,7 +12,7 @@ The writing process has helped us to uncover shortcomings in our approach and we
 
 ### [Project Access](https://chaoss.community/?p=4953)
 
-From the start, Epiverse-TRACE has been designed as an international, multi-stakeholder project. This has lead to a series of principles to work well across time zones, geographies, and personal preferences:
+From the start, Epiverse-TRACE has been designed as an international, multi-stakeholder project. This has lead to a series of principles to work well across time zones, geographies, and individual needs:
 
 1. In virtual meetings held on Zoom, members are given the option to join either via computer or phone. Video is not required to participate as this helps preserve bandwidth for team members that may experience connectivity issues. 
 2. We continuously seek ways to introduce Epiverse-TRACE to other regions in Latin America, beyond Colombia, by engaging with other projects (eg; Mexico, Peru, Bolivia). We understand that infrastructure or capacity may look different in other countries, so we improve project access and by working with these teams and adjust our tools or resources to fit different needs.
