@@ -5,8 +5,6 @@ We already have documented our values in detail in our [code of conduct](./CODE_
 
 Our project prioritizes and reflects on DEI through a regular review of project policies and performance. This reflection is documented, in part, in the following DEI.md file based on specific [CHAOSS](https://chaoss.community) DEI metrics.
 
-In this document, we are documenting the practical steps we are taking as a community across the whole Epiverse-TRACE project to ensure these values are reflected in our actions.
-
 This document results from collaborative work from team members at the University of Javeriana, the Medical Research Centre Gambia, the London School of Hygiene and Tropical Medicine, and data.org.
 The writing process has helped us to uncover shortcomings in our approach and we are continuously working on improving our DEI strategy. This document only reflects the current state of our community and we hope to keep adding to it.
 
