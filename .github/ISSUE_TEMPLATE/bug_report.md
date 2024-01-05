@@ -1,6 +1,8 @@
 ---
 name: Bug report
-about: *Bugs* may include behaviour that does not impact package functionality, but which seems as though it might not be intended by the package developers.
+about: |
+  *Bugs* may include behaviour that does not impact package functionality, 
+  but which seems as though it might not be intended by the package developers.
 title: ''
 labels: ''
 assignees: ''
