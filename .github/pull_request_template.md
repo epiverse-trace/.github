@@ -1,9 +1,10 @@
 * **Please check if the PR fulfills these requirements**
 
-- [ ] I have read the CONTRIBUTING guidelines 
+- [ ] I have read the CONTRIBUTING guidelines
 - [ ] A new item has been added to `NEWS.md`
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Docs have been added / updated (for bug fixes / features)
+- [ ] Checks have been run locally and pass
 
 * **What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
 
