@@ -11,3 +11,5 @@ You can also pitch and discuss new project ideas with us! You can follow these l
 
 * [The list of projects being discussed](https://github.com/orgs/epiverse-trace/discussions/categories/project-ideas)
 * [How to propose a new project](https://github.com/orgs/epiverse-trace/discussions/new?category=project-ideas)
+
+[![CHAOSS Bronze DEI badge](../Bronze-Badge.svg)](https://badging.chaoss.community/)
