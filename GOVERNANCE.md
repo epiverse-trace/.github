@@ -4,7 +4,7 @@
 
 - TRACE: Tools for Response, Analytics, and Control of Epidemics
 - LSHTM: London School of Hygiene and Tropical Medicine 
-- MRCG: Medical Research Council Unit, Gambia
+- MRCG: Medical Research Council Unit, The Gambia
 - LAC: Latin America and the Caribbean
 
 ## Team Structure and Roles
@@ -46,11 +46,11 @@ When Epiverse-TRACE team members change employment, they are removed from the or
 The coding and packaging standards apply to all R packages hosted on this GitHub organization. The standards are defined in the [`blueprints`](https://github.com/epiverse-trace/blueprints) repository, in the form of an online book.
 The Blueprints aim to ensure consistency and quality control in the artifacts produced by the project (e.g., R packages), rather than homogeneity in the working patterns and processes of individual teams.
 
-Whenever possible, the blueprints standard are implemented in the [`packagetemplate` template GitHub repository](https://github.com/epiverse-trace/packagetemplate) to facilitate adoption throughout the project.
+Whenever possible, the blueprints standard are implemented in the [`packagetemplate` repository](https://github.com/epiverse-trace/packagetemplate) to facilitate adoption throughout the project.
 
 ### Decision-making process
 
-The blueprints are continuously reviewed and improved by the blueprints working group, on the ["rough consensus" model](https://en.wikipedia.org/wiki/Rough_consensus), pioneered by the IETF.
+The blueprints are continuously reviewed and improved by the blueprints working group, on the ["rough consensus" model](https://en.wikipedia.org/wiki/Rough_consensus), pioneered by the [IETF](https://www.ietf.org/about/introduction/).
 All new proposals for the blueprints are initially discussed in blueprints working group private slack channel for simple changes, or via synchronous meetings for contentious or more difficult changes. Results of these discussions are then encoded in a pull request in the blueprints repository. The link to the pull request is shared on the private slack channel for review, and all working group members have 2 weeks to voice concerns or request changes before the pull request is merged.
 
 The blueprints working group is currently composed of a senior representative of each team involved in the project, as well as one external advisor:
