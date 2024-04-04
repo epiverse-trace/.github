@@ -53,7 +53,10 @@ The Code of Conduct Committee will determine appropriate enforcement measures on
 
 ## Reporting
 
-Incidents can be reported to the Epiverse-TRACE Code of Conduct Committee through completing this short form:  <https://forms.gle/guKqVXPk6K43jPn59>
+> [!CAUTION]
+> Due to high turnover of the team, the information below is out of date and currently being revised.
+
+Incidents can be reported to the Epiverse-TRACE Code of Conduct Committee: <dc.fajardop@javeriana.edu.co>
 
 Current membership of the Committee is:
 

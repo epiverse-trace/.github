@@ -53,7 +53,10 @@ El código de conducta determinará las medidas de cumplimiento apropiadas caso 
 
 ## Reportes
 
-Los incidentes se pueden reportar al comité del código de conducta de Epiverse-TRACE completando este breve formulario: <https://forms.gle/WG63ZsudUjEXVMzP7>
+> [!CAUTION]
+> Debido a la alta rotación del equipo, la siguiente información está desactualizada y actualmente se está revisando.
+
+Los incidentes se pueden reportar al comité del código de conducta de Epiverse-TRACE: <dc.fajardop@javeriana.edu.co>
 
 La composición actual del comité es:
 
