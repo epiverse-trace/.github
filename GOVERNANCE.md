@@ -46,7 +46,7 @@ When Epiverse-TRACE team members change employment, they are removed from the or
 The coding and packaging standards apply to all R packages hosted on this GitHub organization. The standards are defined in the [`blueprints`](https://github.com/epiverse-trace/blueprints) repository, in the form of an online book.
 The Blueprints aim to ensure consistency and quality control in the artifacts produced by the project (e.g., R packages), rather than homogeneity in the working patterns and processes of individual teams.
 
-Whenever possible, the blueprints standard are implemented in the [`packagetemplate` repository](https://github.com/epiverse-trace/packagetemplate) to facilitate adoption throughout the project.
+Whenever possible, the blueprints standard are implemented in the [`packagetemplate` GitHub template repository](https://github.com/epiverse-trace/packagetemplate) to facilitate adoption throughout the project.
 
 ### Decision-making process
 
