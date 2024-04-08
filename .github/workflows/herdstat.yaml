@@ -9,8 +9,8 @@ name: 'Herdstat Analysis'
 on:
   workflow_dispatch:
   schedule:
-    # Runs every at midnight
-    - cron: '0 0 * * *'
+    # Runs every Monday at midnight
+    - cron: '0 0 * * 1'
 jobs:
   herdstat:
     runs-on: ubuntu-latest
@@ -19,8 +19,15 @@ jobs:
       - uses: herdstat/herdstat-action@v0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.ET_HERDSTAT_PAT }}
-      - uses: EndBug/add-and-commit@v9
+      - uses: peter-evans/create-pull-request@10db75894f6d53fc01c3bb0995e95bd03e583a62
+        id: cpr
         with:
-          default_author: github_actions
-          add: 'contribution-graph.svg'
-          message: 'Update contribution graph'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update `contribution_graph.svg`
+          committer: epiverse-trace-bot <epiverse-trace-bot@users.noreply.github.com>
+          author: epiverse-trace-bot <epiverse-trace-bot@users.noreply.github.com>
+          branch: update-herdstat
+          add-paths: 'contribution-graph.svg'
+          title: Automated update of contribution graph
+          reviewers: chartgerink
+          delete-branch: true  
