@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.SUDO_GITHUB_TOKEN }}
       - uses: herdstat/herdstat-action@v0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.ET_HERDSTAT_PAT }}
@@ -25,4 +27,3 @@ jobs:
           author_email: epiverse-trace-bot@users.noreply.github.com
           message: "Update `contribution_graph.svg`"
           add: 'contribution-graph.svg'
-          token: ${{ secrets.SUDO_GITHUB_TOKEN }}
