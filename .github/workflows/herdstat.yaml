@@ -9,8 +9,8 @@ name: 'Herdstat Analysis'
 on:
   workflow_dispatch:
   schedule:
-    # Runs every Monday at midnight
-    - cron: '0 0 * * 1'
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
 jobs:
   herdstat:
     runs-on: ubuntu-latest
