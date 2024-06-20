@@ -10,7 +10,7 @@ We are conscious of the power imbalances which exist within these and all group 
 
 We will not always get it right and we encourage members of the community to reach out and let us know in cases where we miss the mark. We are committed to learning from one another and growing together.
 
-This code of conduct is a living document which is intended to evolve in line with feedback from members of the community. We welcome your input on any element of it. Please do reach out if you have any thoughts and/or suggestions: <dc.fajardop@javeriana.edu.co>
+This code of conduct is a living document which is intended to evolve in line with feedback from members of the community. We welcome your input on any element of it. Please do reach out if you have any thoughts and/or suggestions: <conduct@epiverse.org>
 
 ## Where and when the code of conduct applies
 
@@ -56,7 +56,7 @@ The Code of Conduct Committee will determine appropriate enforcement measures on
 > [!CAUTION]
 > Due to high turnover of the team, the information below is out of date and currently being revised.
 
-Incidents can be reported to the Epiverse-TRACE Code of Conduct Committee: <dc.fajardop@javeriana.edu.co>
+Incidents can be reported to the Epiverse-TRACE Code of Conduct Committee: <conduct@epiverse.org>
 
 Current membership of the Committee is:
 

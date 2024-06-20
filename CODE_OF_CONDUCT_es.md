@@ -10,7 +10,7 @@ Somos conscientes de los desequilibrios de poder que existen dentro de estos y t
 
 No siempre lo haremos bien e incitamoss a los miembros de la comunidad a comunicarse y avisarnos en los casos en que no acertamos. Estamos comprometidos a aprender unos de otros y crecer juntos.
 
-Este código de conducta es un documento vivo destinado a evolucionar con la retroalimentación de los miembros de la comunidad. Damos la bienvenida a su aporte a cualquier momento. Por favor, comuníquese con <dc.fajardop@javeriana.edu.co> si tiene alguna idea o sugerencia.
+Este código de conducta es un documento vivo destinado a evolucionar con la retroalimentación de los miembros de la comunidad. Damos la bienvenida a su aporte a cualquier momento. Por favor, comuníquese con <conduct@epiverse.org> si tiene alguna idea o sugerencia.
 
 ## Dónde y cuándo se aplica el código de conducta
 
@@ -56,7 +56,7 @@ El código de conducta determinará las medidas de cumplimiento apropiadas caso 
 > [!CAUTION]
 > Debido a la alta rotación del equipo, la siguiente información está desactualizada y actualmente se está revisando.
 
-Los incidentes se pueden reportar al comité del código de conducta de Epiverse-TRACE: <dc.fajardop@javeriana.edu.co>
+Los incidentes se pueden reportar al comité del código de conducta de Epiverse-TRACE: <conduct@epiverse.org>
 
 La composición actual del comité es:
 
