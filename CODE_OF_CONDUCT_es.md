@@ -64,7 +64,7 @@ La composición actual del comité es:
 * Diana Fajardo Pulido, coordinadora de investigación TRACE-LAC - Pontificia Universidad Javeriana
 * Nicolas Yanez, Científico de Datos Clínicos - Philips Research North America [miembro externo del comité]
 * Natalia Niño, investigadora - Universidad de los Andes
-* Claudine Lim, directora del programa - data.org
+* Cormekki Whitley, directora de finanzas - data.org
 
 También puede presentar un informe a un miembro del comité poniéndose en contacto directamente. Si algún miembro del comité tiene conflicto de interés con un informe, será recusado y no tendrá acceso al contenido o proceso de seguimiento del informe, el cual será manejado por los demás miembros del comité.
 
