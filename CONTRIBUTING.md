@@ -1,5 +1,5 @@
 ## Contributing to epiverse-trace packages
-There are lots of ways you can contribute to packages within the epiverse-trace organisation. All contributions are most welcome and only some of these require techical knowledge. If you have something to contribute but aren't sure how, please don't hesitate to log an issue or get in touch with Community Manager Anna by email to <dc.fajardop@javeriana.edu.co>. 
+There are lots of ways you can contribute to packages within the epiverse-trace organisation. All contributions are most welcome and only some of these require techical knowledge. If you have something to contribute but aren't sure how, please don't hesitate to log an issue or get in touch with Community Manager Diana by email to <dc.fajardop@javeriana.edu.co>. 
 
 The below guidelines outline how to propose a change to epiverse-trace packages. We abide by the contibuting guidelines developed by the tidyverse. For more detailed info about contributing to this, and other epiverse-trace packages, please see the [tidyverse development contributing guide](https://www.tidyverse.org/contribute/). 
 
