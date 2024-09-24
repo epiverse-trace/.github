@@ -21,6 +21,7 @@ Each team has [organization owners](https://docs.github.com/en/organizations/man
 - Zulma Cucunubá
 - Roz Eggo
 - Sebastian Funk
+- Catalina González-Uribe
 - Hugo Gruson
 - Chris Hartgerink
 - Adam Kucharski
