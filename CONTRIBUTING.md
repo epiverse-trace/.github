@@ -19,6 +19,21 @@ If you want to make a bigger change, it's a good idea to first file an issue and
 - Make your changes, commit to git, and then create a PR by running `usethis::pr_push()`, and following the prompts in your browser. The title of your PR should briefly describe the change. The body of your PR should contain Fixes #issue-number.
 - For user-facing changes, add a bullet to the top of `NEWS.md` (i.e. just below the first header). Follow the style described in https://style.tidyverse.org/news.html.
 
+### What happens after submitting a pull request?
+
+PRs are reviewed by the team before they are merged. The review process begins after continuous integration checks, which can take some time. We do not expect contributors to familiarise themselves with all the automated checks in our GitHub actions, and are happy to support on this once a PR is made. 
+
+However, for those who are interested in running local checks to accelerate the PR process, here is a summary of the main checks that are automatically performed and how they can be confirmed:
+
+- Load the package for Epiverse-customised versions of the checks: `remotes::install_github("epiverse-trace/etdev")`.
+
+- Run `testthat::test_package()` to check that package tests are still passing.
+
+- Run `lintr::lint_package()` to check for programmatic and stylistic errors in code.
+
+- Run `devtools::check()` to check overall package structure.
+
+
 ### Code style
 
 - New code should follow the tidyverse [style guide](https://style.tidyverse.org/news.html). You can use the [styler](https://cran.r-project.org/web/packages/styler/index.html) package to apply these styles, but please don't restyle code that has nothing to do with your PR.
