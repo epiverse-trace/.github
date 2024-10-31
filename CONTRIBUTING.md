@@ -31,6 +31,8 @@ However, for those who are interested in running local checks to accelerate the 
 
 - Run `lintr::lint_package()` to check for programmatic and stylistic errors in code.
 
+- Run `spelling::spell_check_test()` to check spelling and update word list if necessary.
+
 - Run `devtools::check()` to check overall package structure.
 
 
