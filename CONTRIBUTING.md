@@ -27,13 +27,11 @@ However, for those who are interested in running local checks to accelerate the 
 
 - Load the package for Epiverse-customised versions of the checks: `remotes::install_github("epiverse-trace/etdev")`.
 
-- Run `testthat::test_package()` to check that package tests are still passing.
-
 - Run `lintr::lint_package()` to check for programmatic and stylistic errors in code.
 
-- Run `spelling::spell_check_test()` to check spelling and update word list if necessary.
+- Run `devtools::document()` to regenerate the .Rd files if changes were made to documentation.
 
-- Run `devtools::check()` to check overall package structure.
+- Run `devtools::check()` to make sure the package passes R CMD check (see previous section). You may prefer to run individual checks such as `spelling::spell_check_test()` to check spelling and `testthat::test_package()` to check that package tests are still passing before running this more comprehensive check.
 
 
 ### Code style
