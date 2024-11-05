@@ -33,7 +33,6 @@ However, for those who are interested in running local checks to accelerate the 
 
 - Run `devtools::check()` to make sure the package passes R CMD check (see previous section). You may prefer to run individual checks such as `spelling::spell_check_test()` to check spelling and `testthat::test_package()` to check that package tests are still passing before running this more comprehensive check.
 
-
 ### Code style
 
 - New code should follow the tidyverse [style guide](https://style.tidyverse.org/news.html). You can use the [styler](https://cran.r-project.org/web/packages/styler/index.html) package to apply these styles, but please don't restyle code that has nothing to do with your PR.
