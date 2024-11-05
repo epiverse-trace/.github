@@ -21,7 +21,7 @@ If you want to make a bigger change, it's a good idea to first file an issue and
 
 ### What happens after submitting a pull request?
 
-PRs are reviewed by the team before they are merged. The review process begins after continuous integration checks, which can take some time. We do not expect contributors to familiarise themselves with all the automated checks in our GitHub actions, and are happy to support on this once a PR is made. 
+PRs are reviewed by the team before they are merged. The review process begins after continuous integration automated checks, which can take some time. We do not expect contributors to familiarise themselves with all the automated checks in our GitHub actions, and are happy to support on this once a PR is made. 
 
 However, for those who are interested in running local checks to accelerate the PR process, here is a summary of the main checks that are automatically performed and how they can be confirmed:
 
