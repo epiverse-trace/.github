@@ -64,10 +64,6 @@ The blueprints working group is currently composed of a senior representative of
 
 The representatives convey the views of their respective teams to the working group and report the decisions taken to their team.
 
-## Decisions in Individual Packages
-
-[TBD]
-
 ## How to contribute a new package
 
 The process of proposing a new Epiverse-TRACE package starts by [opening a public discussion thread in the Epiverse-TRACE GitHub discussions board](https://github.com/orgs/epiverse-trace/discussions/new?category=project-ideas).
