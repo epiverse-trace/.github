@@ -4,8 +4,8 @@ analysis ecosystem dedicated to getting ahead of the next public health crisis.
 You may learn more about our tools and our work in progress by checking out the
 following links:
 
-- [The epiverse-trace developer space](https://epiverse-trace.github.io/)
-- [Our website](https://data.org/initiatives/epiverse/)
+- [The Epiverse-TRACE community site](https://epiverse-trace.github.io/)
+- [The Epiverse project site](https://data.org/initiatives/epiverse/)
 
 You can also pitch and discuss new project ideas with us! You can follow these links to find:
 
