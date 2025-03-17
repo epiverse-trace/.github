@@ -60,10 +60,7 @@ Incidents can be reported to the Epiverse-TRACE Code of Conduct Committee: <cond
 
 Current membership of the Committee is:
 
-* Anna Carnegie, Community Manager - LSHTM
 * Diana Fajardo Pulido, Research Coordinator TRACE-LAC - Pontificia Universidad Javeriana
-* Nicolas Yanez, Clinical Data Scientist - Philips Research North America [external Committee Member]
-* Natalia Niño, Researcher - Universidad de los Andes
 * Cormekki Whitley, Chief Finance Officer - data.org
 
 You may also make a report directly to one member of the Committee by contacting them directly. If any member of the Committee has a conflict of interest with a report, they will be recused and will not have access to the content or process of the report follow-up, which will be handled by the other members of the Committee.
