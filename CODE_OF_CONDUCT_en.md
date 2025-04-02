@@ -77,7 +77,7 @@ This means that we will not take action on complaints that:
 
 ## Reporting and enforcement
 
-The Epiverse Code of Conduct Committee includes Diana Fajardo Pulido (Epiverse Community Engagement and Involvement Manager), Karim Mané (Epiverse Research Software Engineer) <!-- xxx (Epiverse lead) and xxx (External Committee Member). -->
+The Epiverse Code of Conduct Committee includes Diana Fajardo Pulido (Epiverse Community Engagement and Involvement Manager), Karim Mané (Epiverse Research Software Engineer), Sebastian Funk (Epiverse lead at LSHTM) <!-- and xxx (External Committee Member). -->
 
 ### How to report a violation
 
