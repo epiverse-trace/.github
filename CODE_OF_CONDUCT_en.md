@@ -27,10 +27,10 @@ We know that we will not always get everything right, and we encourage community
 To create a positive and respectful environment, all community members are expected to:
 
 - Be considerate in speech and actions, acknowledging and respecting boundaries.  
-- Remembering that people live lives and navigate challenges beyond the confines of the community. Practicing empathy, kindness and respect, always.  
+- Remember that people live lives and navigate challenges beyond the confines of the community. Practicing empathy, kindness and respect, always.  
 - Engage constructively while asking questions or discussing differing viewpoints.  
 - Respect consent in all interactions, including physical and virtual communications.  
-- Resolving disagreements and differing views constructively by focusing on helping to resolve issues and learning from mistakes.  
+- Resolve disagreements and differing views constructively by focusing on helping to resolve issues and learning from mistakes.  
 - Support one another by alerting moderators or the Code of Conduct Committee to violations, unsafe situations, or individuals in distress.
 
 Examples of positive behavior include:
@@ -96,8 +96,8 @@ Possible actions include:
 
 * Verbal or written warnings.  
 * Temporary or permanent bans from specific spaces or events.  
-* In the event that any violations exist in social media, online forums or Github repositories information will be removed.  
-* We aim to implement resolutions as quickly as possible while maintaining transparency and fairness.
+* If any violations are found on social media, online forums, or Github repositories, the relevant information will be removed.  
+* Quickly implement resolutions while maintaining transparency and fairness.
 
 If you anticipate concerns about attending an event or joining a community space, we can take steps to ensure your safety, including:
 
@@ -111,7 +111,7 @@ We conduct an annual review of this Code of Conduct with input from all members 
 
 ## Acknowledgments
 
-This Code of Conduct builds upon the foundations of the previous version, incorporating valuable insights from our community. It has been reviewed and refined through a collaborative process involving Epiverse team members [Hugo Gruson](https://github.com/Bisaloo), [Chris Hartgerink](https://github.com/chartgerink), [Karim Mane](https://github.com/Karim-Mane), [Joshua Lambert](https://github.com/joshwlambert), [Andree Valle-Campos](https://github.com/avallecam) and [Diana Fajardo Pulido](https://github.com/DianaClemencia/DianaClemencia) <!-- and external advisors \[insert names of external advisors\] to ensure it remains inclusive, clear, and effective. -->
+This Code of Conduct builds upon the foundations of the previous version, incorporating valuable insights from our community. It has been reviewed and refined through a collaborative process involving Epiverse team members [Hugo Gruson](https://github.com/Bisaloo), [Chris Hartgerink](https://github.com/chartgerink), [Karim Mane](https://github.com/Karim-Mane), [Joshua Lambert](https://github.com/joshwlambert), [Andree Valle-Campos](https://github.com/avallecam), [James Mba Azam](https://github.com/jamesmbaazam), and [Diana Fajardo Pulido](https://github.com/DianaClemencia/DianaClemencia) <!-- and external advisors \[insert names of external advisors\] to ensure it remains inclusive, clear, and effective. -->
 
 This Code of Conduct was also inspired by policies from [rOpenSci](https://ropensci.org/code-of-conduct/) and [NHS-R Community](https://nhsrway.nhsrcommunity.com/code-of-conduct.html) which have been adapted from many sources including the [Open Source and Feelings talk](https://youtu.be/nizfHxg8y3o) by [Audrey Eschright](https://lifeofaudrey.com/), the R Consortium R Community Diversity and Inclusion Working Group’s draft [Code of Conduct](https://github.com/RConsortium/RCDI-WG/blob/0ca0a91dccc9296ff53a5806f52a2a49dbb8850d/conduct/code-of-conduct.md), the [Geek Feminism anti-harassment policy](https://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy), the [useR\! 2021 Code of Conduct](https://user2021.r-project.org/participation/coc/), the ropenSci Community Call: [How do I create a Code of Conduct for my event/lab/codebase?](https://ropensci.org/commcalls/2016-12-15/) and [The Turing Way Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md). Some parts have been added from the Code of Conduct  that was originally listed on the Epiverse-TRACE website and had acknowledgements: [RECON](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/) and [CSCCE](https://www.cscce.org/cscce-community-participation-guidelines/). We thank these communities for their commitment to diversity, equity and inclusivity. The ease of producing this comprehensive Code of Conduct is because of the acknowledged work being published under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA). <!-- This too is released under the same licence which means you are free to share and adapt the work so long as the attribution to -->
 
