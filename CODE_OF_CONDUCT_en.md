@@ -66,6 +66,7 @@ Unwanted contact and privacy violations:
 * Pressuring or assuming inappropriate levels of intimacy.
 
 Our priorities in enforcement  
+
 Our primary commitment is to ensure the safety and inclusion of marginalized individuals. We recognize that discussions about equity and inclusion can sometimes feel uncomfortable, but we will not prioritize the comfort of those in privileged positions over the well-being of those facing discrimination or exclusion.
 
 This means that we will not take action on complaints that:
