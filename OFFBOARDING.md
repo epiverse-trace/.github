@@ -7,7 +7,7 @@
   *Being the maintainer on an R package hosted on CRAN requires at least to be able to quickly respond to CRAN requests (usual timeline of ~2 weeks), or risk package archival.
   Ideally, maintainers should also help with review of PRs from other authors or external contributors and address bug reports in a timely manner.*
 
-  *Link to see packages maintained on CRAN by a given email address: <https://cran.r-project.org/web/checks/check_results_hugo_at_data.org.html>
+  * Link to see packages maintained on CRAN by a given email address: <https://cran.r-project.org/web/checks/check_results_hugo_at_data.org.html>
 
   - [ ] If you want to stay maintainer, ensure the email address used to in the dedicated field in `DESCRIPTION` will still be valid after your departure (check institution policy regarding alumni email address).
         Make a CRAN release using the new email address before leaving. You will need to send a confirmation email from your old email address.
