@@ -27,10 +27,10 @@ We know that we will not always get everything right, and we encourage community
 To create a positive and respectful environment, all community members are expected to:
 
 - Be considerate in speech and actions, acknowledging and respecting boundaries.  
-- Remember that people live lives and navigate challenges beyond the confines of the community. Practicing empathy, kindness and respect, always.  
-- Engage constructively while asking questions or discussing differing viewpoints.  
+- Remember that people's experiences and challenges may span outside the community. Practicing empathy, kindness and respect, always.  
+- Engage constructively while asking questions or discussing differing viewpoints. 
 - Respect consent in all interactions, including physical and virtual communications.  
-- Resolve disagreements and differing views constructively by focusing on helping to resolve issues and learning from mistakes.  
+- Resolve disagreements and differing views constructively by focusing on the issue at hand while learning from mistakes.  
 - Support one another by alerting moderators or the Code of Conduct Committee to violations, unsafe situations, or individuals in distress.
 
 Examples of positive behavior include:
@@ -43,7 +43,7 @@ Examples of positive behavior include:
 
 ## Unacceptable Behavior
 
-**We do not tolerate harassment in any form.** Adherence to our Code of Conduct requires refraining from demeaning, discriminatory, or harassing behavior and speech, including but not limited to:
+**We do not tolerate harassment in any form.** Adherence to our Code of Conduct requires refraining from demeaning, discriminatory, or harassing behavior and speech, including but not limited to: excluding individuals based on protected characteristics such as race, gender, sexual orientation, disability, age, religion, or nationality.
 
 Harassment and/or discrimination:
 
