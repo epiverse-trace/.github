@@ -78,14 +78,14 @@ This means that we will not take action on complaints that:
 
 ## Reporting and enforcement
 
-The Epiverse Code of Conduct Committee includes Diana Fajardo Pulido (Epiverse Community Engagement and Involvement Manager), Karim Mané (Epiverse Research Software Engineer), Sebastian Funk (Epiverse lead at LSHTM) <!-- and xxx (External Committee Member). -->
+The Epiverse Code of Conduct Committee includes Diana Fajardo Pulido (Epiverse Community Engagement and Involvement Manager), Karim Mané (Epiverse Research Software Engineer), Sebastian Funk (Epiverse lead at LSHTM) and Cormekki Whitley (External Committee Member, Chief Operating Officer, data.org).
 
 ### How to report a violation
 
 If you experience or witness behavior that violates this Code of Conduct, or if you have concerns about someone’s safety, you can report it through:  
-**Email:** Send a report to [conduct@epiverse.org](mailto:conduct@epiverse.org)   
+**Email:** Send a report to [conduct@epiverse.org](mailto:conduct@epiverse.org) 
 **In-person Events:** Contact any member of the Code of Conduct Committee or designated event moderators. 
-<!-- **Online Form:** Submit a confidential report \[link to form\]. --> 
+**Online Form:** Submit a confidential report [\[link to form\](https://forms.office.com/r/H0AzxLCAVv)]. 
 Reports can be submitted anonymously or with identifying details. All reports will be treated confidentially and with care for the reporter’s safety. Upon submitting your report, you will receive a copy of your responses via email. You should receive a separate acknowledgement of receipt via email from the Code of Conduct Committee within 48 hours on weekdays, or within 72 hours for an event that takes place on a weekend.
 
 ### Enforcement process
