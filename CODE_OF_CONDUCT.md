@@ -1,2 +1,3 @@
 - [Epiverse-TRACE Community Code of Conduct in English](./CODE_OF_CONDUCT_en.md)
 - [Código de conducta de la comunidad Epiverse-TRACE en Español](./CODE_OF_CONDUCT_es.md)
+- [Code de Conduite de la communauté Epiverse-TRACE en français](./CODE_OF_CONDUCT_fr.md)
