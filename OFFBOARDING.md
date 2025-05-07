@@ -31,5 +31,5 @@
 
 - [ ] Ensure all local changes are pushed to GitHub
 - [ ] Review all existing branches you own and triage them
-- [ ] Review issues assigned to you across the organization (e.g., https://github.com/search?q=org%3Aepiverse-trace+assignee%3ABisaloo&type=issues)
+- [ ] Review issues assigned to you across the organization (e.g., https://github.com/search?q=org%3Aepiverse-trace+assignee%3ABisaloo++&type=issues&state=open)
 - [ ] Submit all records you own on Zenodo to the Epiverse-TRACE Zenodo organization (https://zenodo.org/account/settings/github/)
