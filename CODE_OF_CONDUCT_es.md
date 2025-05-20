@@ -77,7 +77,7 @@ Si experimenta o es testigo de un comportamiento que infringe este Código de co
 
 **Eventos presenciales:** Póngase en contacto con cualquier miembro del Comité del Código de Conducta o con los moderadores de nuestros eventos.
 
-Las denuncias pueden presentarse de forma anónima o con datos de identificación. Todas las denuncias se tratarán de forma confidencial y velando por la seguridad del denunciante. Tras enviar su denuncia, recibirá una copia de sus respuestas por correo electrónico del Comité del Código de Conducta en un plazo de 48 horas en días laborables, o en un plazo de 72 horas si el evento tiene lugar en fin de semana.
+Las denuncias pueden presentarse de forma anónima o con datos de identificación. Todas las denuncias se tratarán de forma confidencial y velando por la seguridad del denunciante de acuerdo con el [tratamiento de datos de data.org](https://data.org/privacy-policy/). Tras enviar su denuncia, recibirá una copia de sus respuestas por correo electrónico del Comité del Código de Conducta en un plazo de 48 horas en días laborables, o en un plazo de 72 horas si el evento tiene lugar en fin de semana.
 
 ## Proceso de aplicación
 El Comité del Código de Conducta examinará el informe y, si es necesario, recusará a los miembros con conflictos de intereses. El comité investigará el incidente con prontitud, considerando todas las perspectivas y pruebas.
