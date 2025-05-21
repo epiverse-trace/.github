@@ -1,79 +1,103 @@
-# Epiverse-TRACE Código de conducta de la comunidad
+## Código de Conducta de Epiverse
 
-## Visión general
+## Introducción
+Epiverse es una iniciativa global con un equipo multidisciplinario que incluye epidemiólogos, científicos de datos, desarrolladores de software, profesionales de la salud pública y tomadores de decisiones, entre otros, que trabajan para crear un conjunto de herramientas de código abierto y de alta calidad para dar respuesta a brotes y epidemias. Al integrar el análisis de datos, el desarrollo colaborativo de software y la construcción de capacidades, Epiverse fomenta una comunidad próspera que promueve la inclusión, el intercambio de conocimientos y la integración interdisciplinaria dentro del ecosistema de la salud pública y la ciencia de datos.
 
-Epiverse-TRACE es una comunidad global de miembros que se alinean alrededor de una visión compartida para mejorar el panorama de análisis de brotes a través del desarrollo de herramientas de software escalables, de código abierto, e impulsadas por la comunidad. Nuestra comunidad es el núcleo de la iniciativa Epiverse. Todos y cada uno de los miembros tienen un rol valioso en nuestro éxito colectivo.
+Nuestra comunidad es nuestra mayor fortaleza, y damos prioridad a un entorno acogedor que celebre la diversidad, fomente la colaboración y garantice la seguridad y el respeto de todas las personas.
 
-Respetamos las identidades individuales de nuestros miembros y estamos dedicados a hacer que nuestros espacios sean accesibles, inclusivos, y acogedores para todos. Nuestra intención es crear espacios donde los miembros se sientan alentados a contribuir de manera segura y a hacer preguntas sin miedo a juicios de valor o faltas de respeto. Tomamos medidas contracomportamientos inaceptables. La reputación de nadie es más importante que la seguridad de los miembros de nuestra comunidad.
+Este Código de conducta describe nuestro compromiso, los comportamientos esperados y los mecanismos de aplicación para mantener un espacio seguro y enriquecedor para todas y todos y se aplica a:
 
-Somos conscientes de los desequilibrios de poder que existen dentro de estos y todos los espacios grupales. Nos esforzamos por reconocer activamente dichos desequilibrios y minimizar sus efectos nocivos.
+- Todas y todos los participantes en los espacios comunes de Epiverse, incluida nuestra comunidad, sus colaboradores y asistentes externos.
+- Todas y todos los espacios bajo el paraguas de Epiverse, incluyendo GitHub, Slack, listas de correo, foros en línea, redes sociales, eventos y conferencias.
+- Interacciones tanto presenciales como virtuales asociadas a Epiverse.
 
-No siempre lo haremos bien e incitamoss a los miembros de la comunidad a comunicarse y avisarnos en los casos en que no acertamos. Estamos comprometidos a aprender unos de otros y crecer juntos.
+## Nuestro compromiso
+**Nos dedicamos a proporcionar un entorno libre de acoso, inclusivo y acogedor para todas las personas participantes**, independientemente de su _identidad o expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, nacionalidad, religión (o falta de ella), estatus socioeconómico o nivel educativo_. Priorizamos la seguridad y el bienestar de las personas y comunidades marginadas por encima de la comodidad de quienes ocupan posiciones privilegiadas. Mantener la integridad y el carácter inclusivo de nuestra comunidad es una responsabilidad compartida.
 
-Este código de conducta es un documento vivo destinado a evolucionar con la retroalimentación de los miembros de la comunidad. Damos la bienvenida a su aporte a cualquier momento. Por favor, comuníquese con <conduct@epiverse.org> si tiene alguna idea o sugerencia.
+Respetamos las identidades y experiencias vividas de todas las personas que forman parte de nuestra comunidad y nos comprometemos a que nuestros espacios sean accesibles, inclusivos y acogedores. Nuestro objetivo es fomentar un entorno en el que todas las personas se sientan motivadas a contribuir, hacer preguntas y participar sin temor a ser juzgadas o irrespetadas. Actuamos frente a comportamientos inaceptables, dejando claro que la reputación de nadie está por encima de la seguridad de nuestra comunidad.
 
-## Dónde y cuándo se aplica el código de conducta
+Reconocemos que existen desequilibrios de poder en todos los espacios colectivos, incluido el nuestro, y trabajamos activamente para identificarlos y minimizar sus efectos nocivos.
 
-Este código de conducta se aplica dentro de todos los espacios comunitarios, y también cuando una persona representa oficialmente a Epiverse-TRACE.
+Sabemos que no siempre lo haremos todo bien, por eso animamos a las personas de la comunidad a señalarnos cuando nos quedemos cortos. Nos comprometemos a aprender, adaptarnos y crecer juntas y juntos.
 
-Ejemplos de representar a nuestra comunidad incluyen usar una dirección de correo electrónico oficial, publicar a través de una cuenta oficial de redes sociales, actuar como representante designado en un evento virtual o en persona (como talleres, paneles de discusión, y capacitaciones).
+## Comportamiento esperado
+Para crear un entorno positivo y respetuoso, se espera que todas y todos los miembros de la comunidad:
+- Sean considerados al hablar y al actuar, reconociendo y respetando los límites.
+- Recuerden que las experiencias y los retos de las personas pueden ir más allá de la comunidad. Practique siempre la empatía, la amabilidad y el respeto.
+- Participen de forma constructiva cuando hagan preguntas o discutan puntos de vista diferentes.
+- Respeten el consentimiento en todas las interacciones, incluidas las comunicaciones físicas y virtuales.
+- Resuelvan los desacuerdos y las opiniones divergentes de forma constructiva, centrándose en el asunto en cuestión y aprendiendo de los errores.
+- Se apoyen mutuamente alertando a los moderadores o al Comité del Código de Conducta sobre infracciones, situaciones inseguras o personas en peligro.
 
-Las personas que participen en eventos de Epiverse-TRACE (ya sea como capacitadores, panelistas, o participantes) deberán cumplir con el código de conducta al registrarse para asistir al evento.
+Ejemplos de comportamiento positivo:
+- Escuchar activamente a los demás y valorar sus puntos de vista.
+- Ofrecer comentarios constructivos en debates o conversaciones.
+- Ser conscientes de las diversas prácticas culturales y estilos de comunicación.
+- Expresar gratitud cuando nos hayamos visto apoyados por las acciones, la experiencia o los recursos de otros.
+- Aceptar la responsabilidad de nuestros errores, pedir disculpas a los afectados, aprender de la experiencia y ajustar nuestro comportamiento.
 
-## Nuestros estándares
+## Comportamiento inaceptable
+No toleramos el acoso en ninguna de sus formas. La adhesión a nuestro Código de Conducta requiere abstenerse de comportamientos y discursos degradantes, discriminatorios o acosadores, incluidos, entre otros:
 
-Ejemplos de comportamiento que contribuyen a un ambiente acogedor para la comunidad incluyen:
+## Acoso y/o discriminación:
+- Comentarios o acciones ofensivos relacionados con el género, la orientación sexual, la raza, la etnia, la discapacidad, la apariencia, la nacionalidad, la religión, el estatus socioeconómico o las opciones tecnológicas.
+- Falseamiento deliberado del género o uso de nombres "muertos".
+- Uso de imágenes, comentarios o chistes sexuales o discriminatorios.
+- Atención sexual no deseada o solicitudes de contacto repetidas e inapropiadas.
 
-* Recordar que las personas tienen vida y enfrentan desafíos más allá de los límites de la comunidad.Practicar siempre la empatía, la amabilidad, y el respeto.
-* Asumir que las intenciones son buenas y pedir aclaraciones cuando exista alguna incertidumbre.
-* Ser respetuoso y no juzgar las experiencias o puntos de vista diferentes de los demás.
-* Reconocer que las contribuciones de todos pueden ser válidas, independientemente del título, el nivel de habilidad, o la base de conocimientos.
-* Dar y recibir comentarios de manera constructiva y cortés.
-* Reflexionar sobre el impacto de nuestras palabras y acciones en otros miembros dentro de la comunidad.
-* Aceptar la responsabilidad de nuestros errores, pedir disculpasalos afectados, aprender de la experiencia y ajustar nuestro comportamiento como corresponde.
-* Expresar gratitud cuando hemos sido apoyados por las acciones, la habilidad, o los recursos de otros.
+## Abuso, intimidación y amenazas:
+- Acecho, comunicación persistente no deseada o seguimiento de actividades en línea.
+- Amenazas de violencia, incitación a autolesionarse o incitación a hacer daño a otros.
+- Interrupción de debates, eventos o conversaciones en línea.
+- Compartir mensajes privados o grabaciones sin consentimiento.
 
-## Formas inaceptables de comportamiento
+## Contacto no deseado y violación de la intimidad:
+- Fotografías, grabaciones o intercambio de información personal no deseados.
+- Contacto físico o simulado inapropiado (por ejemplo, tocamientos no consentidos, emojis).
+- Presionar o asumir niveles inapropiados de intimidad.
 
-Ejemplos de comportamientos que no son bienvenidos en nuestra comunidad incluyen (pero no se limitan a):
+## Nuestras prioridades en la aplicación del Código 
+Nuestro principal compromiso es garantizar la seguridad y la inclusión de las personas marginadas. Reconocemos que los debates sobre equidad e inclusión a veces pueden resultar incómodos, pero no daremos prioridad a la comodidad de quienes ocupan posiciones privilegiadas sobre el bienestar de quienes sufren discriminación o exclusión.
 
-* Atención sexual o contacto físico no deseado.
-* Ataques personales, incluyendo comentarios despectivos, insultos, ignorar, avergonzar o menospreciar a otros.
-* Acoso público o privado.
-* Publicar información privada de otros sin su permiso expreso.
-* Otras conductas que razonablemente podrían considerarse inapropiadas en un entorno profesional.
+Esto significa que no daremos curso a quejas que:
+- Reclamen la denominada discriminación "inversa" (por ejemplo, "racismo inverso" o "sexismo inverso"), ya que las desigualdades sistémicas no funcionan a la inversa.
+- Objeten los límites personales razonables establecidos por los miembros de la comunidad, como las peticiones de poner fin a una conversación o retirarse.
+- Se centran en el tono de la comunicación más que en el contenido de su mensaje.
+- Critiquen o desafien a alguien por hablar de discriminación, exclusión o comportamiento opresivo.
 
-## Cumplimiento del código
+## Reporte y aplicación
+El Comité del Código de Conducta de Epiverse está formado por Diana Fajardo Pulido (Gestora de la Comunidad de Epiverse), Karim Mané (Ingeniero de Software de Epiverse) Sebastian Funk (Lider de Epiverse en LSHTM) y Cormekki Whitley (Miembro del Comité Externo, Director de Operaciones, data.org).
 
-La administradora de la comunidad y los miembros del equipo Epiverse-TRACE son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán medidas correctivas apropiadas y justas en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo, o dañino.
+## Cómo denunciar una infracción
+Si experimenta o es testigo de un comportamiento que infringe este Código de conducta, o si le preocupa la seguridad de alguien, puede denunciarlo a través de:
 
-La administradora de la comunidad y los miembros del equipo Epiverse-TRACE tienen el derecho y la responsabilidad de eliminar, editar, o rechazar comentarios, compromisos, códigos, y otras contribuciones que no estén alineadas con este código de conducta, y comunicarán los motivos de sus decisiones cuando sea adecuado.
+**Correo electrónico:** Enviar un informe a [conduct@epiverse.org](conduct@epiverse.org)
 
-El código de conducta determinará las medidas de cumplimiento apropiadas caso por caso. Cuando sea factible, las violaciones a este código de conducta se abordarán informalmente en primera instancia. Por ejemplo, a través de una advertencia verbal o escrita. Las infracciones repetidas o graves pueden dar lugar a ramificaciones más sostenidas, incluida la prohibición temporal o permanente al acceso de los espacios comunitarios (por ejemplo, foros o eventos) y, cuando sea necesario, la intervención de autoridades legales.
+**Formulario en línea:** Envíe una denuncia confidencial [enlace a registro](https://forms.office.com/r/qp8iuzk9V2)
 
-## Reportes
+**Eventos presenciales:** Póngase en contacto con cualquier miembro del Comité del Código de Conducta o con los moderadores de nuestros eventos.
 
-> [!CAUTION]
-> Debido a la alta rotación del equipo, la siguiente información está desactualizada y actualmente se está revisando.
+Las denuncias pueden presentarse de forma anónima o con datos de identificación. Todas las denuncias se tratarán de forma confidencial y velando por la seguridad del denunciante de acuerdo con el [tratamiento de datos de data.org](https://data.org/privacy-policy/). Tras enviar su denuncia, recibirá una copia de sus respuestas por correo electrónico del Comité del Código de Conducta en un plazo de 48 horas en días laborables, o en un plazo de 72 horas si el evento tiene lugar en fin de semana.
 
-Los incidentes se pueden reportar al comité del código de conducta de Epiverse-TRACE: <conduct@epiverse.org>
+## Proceso de aplicación
+El Comité del Código de Conducta examinará el informe y, si es necesario, recusará a los miembros con conflictos de intereses. El comité investigará el incidente con prontitud, considerando todas las perspectivas y pruebas.
 
-La composición actual del comité es:
+Las posibles acciones incluyen:
+- Amonestaciones verbales o escritas.
+- Prohibiciones temporales o permanentes de espacios o eventos específicos.
+- En caso de que existan infracciones en redes sociales, foros en línea o repositorios de Github, se eliminará la información.
 
-* Anna Carnegie, administradora de la comunidad - LSHTM
-* Diana Fajardo Pulido, coordinadora de investigación TRACE-LAC - Pontificia Universidad Javeriana
-* Nicolas Yanez, Científico de Datos Clínicos - Philips Research North America [miembro externo del comité]
-* Natalia Niño, investigadora - Universidad de los Andes
-* Cormekki Whitley, directora de finanzas - data.org
+Nuestro objetivo es aplicar las resoluciones lo antes posible manteniendo la transparencia y la imparcialidad.
 
-También puede presentar un informe a un miembro del comité poniéndose en contacto directamente. Si algún miembro del comité tiene conflicto de interés con un informe, será recusado y no tendrá acceso al contenido o proceso de seguimiento del informe, el cual será manejado por los demás miembros del comité.
+Si prevé que le preocupa asistir a un evento o unirse a un espacio comunitario, podemos tomar medidas para garantizar su seguridad, como por ejemplo:
+- Preparar moderadores o personal del evento para abordar posibles conflictos.
+- Restringir la asistencia de determinadas personas.
+- Proporcionar contactos in situ para asistencia inmediata.
 
-Al enviar su informe, recibirá por correo electrónico una copia de sus respuestas. Dentro de las 48 horas siguientes en días hábiles o 72 horas en fines de semana, recibirá por correo electrónico un acuse de recibido.
+## Comentarios de la comunidad y proceso de revisión
+Este Código de Conducta se revisa anualmente con el aporte de todos los miembros de Epiverse y asesores externos para garantizar su relevancia y eficacia. Las actualizaciones del Código de Conducta se anunciarán públicamente y se archivarán para referencia de la comunidad. Como mecanismo de referencia y responsabilidad pública, se publicará un resumen anual protegiendo la privacidad de los incidentes denunciados y las resoluciones. Agradecemos las sugerencias de otras partes interesadas, para mejorar este Código de conducta envíe un correo electrónico a [conduct@epiverse.org](conduct@epiverse.org) para compartir sus comentarios.
 
-El comité investigará su informe y hará un seguimiento de acuerdo con nuestro código de conducta con el objetivo de tomar una decisión e implementar medidas adecuadas tan pronto como sea posible.
+## Agradecimientos
+Este Código de Conducta está basado en la versión anterior, e incorpora ideas de nuestra valiosa comunidad. Su versión en inglés ha sido revisada por los miembros del equipo de Epiverse: [Hugo Gruson](https://github.com/Bisaloo), [Chris Hartgerink](https://github.com/chartgerink), [Karim Mane](https://github.com/Karim-Mane), [Joshua Lambert](https://github.com/joshwlambert), [Andree Valle-Campos](https://github.com/avallecam), [James Mba Azam](https://github.com/jamesmbaazam), y [Diana Fajardo Pulido](https://github.com/DianaClemencia) y un revisor externo Paul Korir, Director of Data Science, data.org para garantizar que esta version siga siendo inclusiva, clara y eficaz. Esta traduccion al espanol ha sido revisada por [Andree Valle-Campos](https://github.com/avallecam), [Laura Gómez Bermeo](https://github.com/orgs/epiverse-trace/people/lgbermeo) y [Diana Fajardo Pulido](https://github.com/DianaClemencia)
 
-Si desea informar un incidente independientemente del mecanismo de informe de Epiverse-TRACE, puede hacerlo utilizando la [herramienta de reporte y soporte](https://reportandsupport.lshtm.ac.uk/) de LSHTM donde su caso será evaluado por un miembro del equipo de Equidad y Diversidad de LSHTM.
-
-## Atribución
-
-Este código de conducta se inspiró en los códigos y lineamientos desarrollados por nuestros colegas en [ROpenSci](https://ropensci.org/code-of-conduct/), [RECON](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/) y [CSCCE](https://www.cscce.org/cscce-community-participation-guidelines/). El formulario de informes se inspiró en el desarrollado por ROpenSci. Estamos agradecidos con ellos por esto.
+Este Código de Conducta también se inspira en las políticas de [rOpenSci](https://ropensci.org/code-of-conduct/) y [NHS-R Community](https://nhsrway.nhsrcommunity.com/code-of-conduct.html) que se han adaptado de muchas fuentes, incluidas [Open Source and Feelings talk](https://youtu.be/nizfHxg8y3o) talk de [Audrey Eschright](https://lifeofaudrey.com/), el borrador del Grupo de Trabajo sobre Diversidad e Inclusión de la Comunidad del [ Consorcio de R Code of Conduct](https://github.com/RConsortium/RCDI-WG/blob/0ca0a91dccc9296ff53a5806f52a2a49dbb8850d/conduct/code-of-conduct.md), [Geek Feminism anti-harassment policy](https://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy), [useR\! 2021 Código de Conducta](https://user2021.r-project.org/participation/coc/), Convocatoria de la Comunidad ropenSci: [How do I create a Code of Conduct for my event/lab/codebase?](https://ropensci.org/commcalls/2016-12-15/) y [The Turing Way Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md). Originalmente el Código de Conducta de Epiverse-TRACE estaba inspirado en [RECON](https://www.repidemicsconsortium.org/CODE_OF_CONDUCT/) and [CSCCE](https://www.cscce.org/cscce-community-participation-guidelines/). Agradecemos a estas comunidades su compromiso con la diversidad, la equidad y la inclusión. La facilidad para elaborar este exhaustivo Código de Conducta se debe al reconocido trabajo que se está publicando en el marco del [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA). 
