@@ -26,6 +26,7 @@
 
 - [ ] A design vignette ([template](https://github.com/epiverse-trace/packagetemplate/blob/main/vignettes/design-principles.Rmd)) is present, describing for posterity some issues you discovered the hard way or design decisions you took after long considerations.
   This will prevent future maintainers from making the same mistake as you did.
+- [ ] Review and potentially update the package lifecycle in the `README` to reflect the anticipated development (stable, superseded, suspended, etc.)
 
 ## Across all repos in the organization
 
